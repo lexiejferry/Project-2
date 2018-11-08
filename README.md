@@ -1,5 +1,3 @@
-@Author: Lexie Ferry @Date: 2018-11-08T13:14:44-05:00 @Email: lexiejferry@gmail.com @Project: Project 2 @Last modified by: Lexie Ferry @Last modified time: 2018-11-08T13:14:44-05:00
-
 A map showing changes in Total Dissolved Nitrate from years 2000-2017 in the chesapeake bay
 
 Project Goal: My project goal was to see how water quality measurements for plant nutrients how changed over the years between 2000 and 2017.
@@ -180,5 +178,4 @@ Author: Lexie Ferry
 
 Date Created: 2018-11-08
 
-Email: lexiejferry@gmail.com
 Email: lexiejferry@gmail.com
